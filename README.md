@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vzwork Vladislav Zakharov
+- 👀 I’m automization
+- 🌱 I’m currently learning FERN webstack and data science with python
+- 📫 How to reach me https://www.linkedin.com/in/vzwork/
