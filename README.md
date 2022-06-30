@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vzwork Vladislav Zakharov
-- 👀 I’m automization
-- 🌱 I’m currently learning FERN webstack and data science with python
-- 📫 How to reach me https://www.linkedin.com/in/vzwork/
+- Hello, my name is Vladislav (Vlad) Zakharov!
+- I am currently enrolled in BS for Appliaction Development, and in a bootcamp for data science
+- Here you will find my passion projects, as well as data science projects.
+- I have a second account @vzschool for my school projects
