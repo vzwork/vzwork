@@ -1,4 +1,4 @@
 - Hello, my name is Vladislav (Vlad) Zakharov!
 - I am currently enrolled in BS for Appliaction Development, and in a bootcamp for data science
 - Here you will find my passion projects, as well as data science projects.
-- I have a second account @vzschool for my school projects
+- I have a second account https://github.com/vzschool for my school projects
