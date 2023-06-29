@@ -1,4 +1,4 @@
 - Hello, my name is Vladislav Zakharov!
 - I have BAS in application development.
-- I also completed a bootcamp in DS where I studiet deep learning.
+- I also completed a bootcamp in DS where I studied deep learning.
 - Here you will find my passion projects, as well as data science projects.
