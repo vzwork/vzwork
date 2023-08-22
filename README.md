@@ -1,4 +1,5 @@
-- Hello, my name is Vladislav Zakharov!
-- I have BAS in application development.
-- I also completed a bootcamp in DS where I studied deep learning.
-- Here you will find my passion projects, as well as data science projects.
+Welcome!
+
+Check out my [personal website](https://vzwork.net/)!
+
+This github mostly works as a storage.
